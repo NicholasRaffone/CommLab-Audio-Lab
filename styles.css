@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 .bongo{
-    width: 80%;
+    width: 40%;
     display: flex;
     justify-content: center;
     margin: 0px auto;
